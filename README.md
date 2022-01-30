@@ -1,6 +1,6 @@
 # Landing
 - NextJS project created with `npx create-next-app@latest --ts`
-- Deployed to vercel
+- Deployed to vercel. [Link](https://marine-litter.vercel.app/)
 
 ## External libraries
 - `styled-components` to style components
